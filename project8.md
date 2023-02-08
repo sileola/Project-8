@@ -1,1 +1,1 @@
-## PROJECT 7: Load Balancer Solution With Apache
+## PROJECT 8: Load Balancer Solution With Apache
